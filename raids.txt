@@ -1,0 +1,5 @@
+To get a list of currently planned raids:
+<highlight><tab><symbol>raids<end>
+
+To update the list of planned raids form the raidbot:
+<highlight><tab><symbol>updateraids<end>
